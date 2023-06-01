@@ -1,0 +1,98 @@
+<mxfile host="app.diagrams.net" modified="2023-06-01T04:17:23.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3R5DfmpNMn-XMC1WlEsW" version="21.3.6" type="google">
+  <diagram name="Página-1" id="v7763w3M1zp3ww_yiCD_">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-16" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#080000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#050000;rounded=0;" edge="1" parent="1" source="4zzNd3GIFWqJw_Z182Vd-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zzNd3GIFWqJw_Z182Vd-18" target="4zzNd3GIFWqJw_Z182Vd-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-18" value="Registrar cuidado" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="790" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-19" value="crear()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="218" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zzNd3GIFWqJw_Z182Vd-20" target="4zzNd3GIFWqJw_Z182Vd-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-20" value="Cancelar" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zzNd3GIFWqJw_Z182Vd-22" target="4zzNd3GIFWqJw_Z182Vd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zzNd3GIFWqJw_Z182Vd-22" target="4zzNd3GIFWqJw_Z182Vd-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-22" value="Verificar informacion" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-23" value="cancelar()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="178" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4zzNd3GIFWqJw_Z182Vd-27" target="4zzNd3GIFWqJw_Z182Vd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zzNd3GIFWqJw_Z182Vd-27" target="4zzNd3GIFWqJw_Z182Vd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-27" value="Borrador" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-31" value="&lt;b&gt;DIAGRAMA DE ESTADOS DEL REGISTRO DE UN CUIDADO EN APIPET&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="60" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-35" value="verificar()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="218" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zzNd3GIFWqJw_Z182Vd-36" target="4zzNd3GIFWqJw_Z182Vd-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-36" value="Aprobado" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zzNd3GIFWqJw_Z182Vd-37" target="4zzNd3GIFWqJw_Z182Vd-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-37" value="Incompleto" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="340" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-45" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="980" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-48" value="aprobar()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="218" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-49" value="rechazar()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="328" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4zzNd3GIFWqJw_Z182Vd-50" value="registrar()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="218" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xrn0Tn5yOdsQtjQT4R-o-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="1010" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="xrn0Tn5yOdsQtjQT4R-o-2" value="&lt;h1&gt;Diagrama de estados Apipet&lt;/h1&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;El diagrama de estados dentro de nuestra aplicación es importante y más cuando hablamos de un cuidado ya que es la motivación principal de nuestra aplicación, llevar los cuidados de las mascotas que se han registrado dentro de la misma, es de igual manera importante porque nos permite modelar el comportamiento que va a tener el sistema y podemos ver como se aplican las reglas de negocio para de esta manera poder identificar estados que pueden llegar a ser complejos de manejar dentro de la aplicación&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="465" width="785" height="165" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" modified="2023-06-01T04:40:30.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oW4x5HSHtKqW-w48zPDe" version="21.3.6" type="google">
+  <diagram name="Página-1" id="0lmjY6zUgA6jWQ6h0j0j">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PZ-Dcd63aat1HdmGUhau-1" target="PZ-Dcd63aat1HdmGUhau-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-1" value="Front end" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PZ-Dcd63aat1HdmGUhau-2" target="PZ-Dcd63aat1HdmGUhau-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-2" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZ-Dcd63aat1HdmGUhau-3" target="PZ-Dcd63aat1HdmGUhau-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZ-Dcd63aat1HdmGUhau-3" target="PZ-Dcd63aat1HdmGUhau-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="70" />
+              <mxPoint x="1280" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-3" value="Facade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZ-Dcd63aat1HdmGUhau-4" target="PZ-Dcd63aat1HdmGUhau-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-4" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LXVf5xum7y0VxlqN98e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PZ-Dcd63aat1HdmGUhau-5" target="9LXVf5xum7y0VxlqN98e-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-5" value="Repository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-10" value="1. doAction(Json)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-11" value="2. doAction(dto)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="464" y="190" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-12" value="3. doAction(domain)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZ-Dcd63aat1HdmGUhau-4" target="PZ-Dcd63aat1HdmGUhau-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="205" />
+              <mxPoint x="970" y="130" />
+              <mxPoint x="890" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-14" value="4. validateRule(domain)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-15" value="5. requestData(entity)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="190" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-16" value="6. setData(entity)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-18" value="7.1 commit()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900" y="20" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-19" value="7.2 rollback()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZ-Dcd63aat1HdmGUhau-21" value="&lt;b&gt;COLABORACION DE UNA TRANSACCION PUST / PUT / DELETE DE UNA MASCOTA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="30" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LXVf5xum7y0VxlqN98e-3" value="Data base" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="175" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xtLRE_cgm6wwteVnHFqt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-10" width="1690" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="xtLRE_cgm6wwteVnHFqt-2" value="&lt;h1&gt;Diagrama de colaboración Apipet&lt;/h1&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;En este diagrama buscamos modelar como llega la información desde el front end de Apipet y de que manera se procesa en el back end, pasando de JSON a DTO, de DTO a Domain y de Domain a Entity, para que de esta manera podamos apreciar la comunicación entre objetos, identificando las responsabilidades que cumple cada uno de ellos y analizar el flujo de la información desde que llega de el front hasta que se procesa en la base de datos al final del diagrama&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="340" width="750" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
